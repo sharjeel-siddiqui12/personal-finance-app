@@ -844,7 +844,7 @@ This project is licensed under the ISC License. See the [LICENSE](backend/LICENS
 
 For issues, questions, or contributions:
 - Open an issue on [GitHub](https://github.com/sharjeel-siddiqui12/personal-finance-app/issues)
-- Contact: [Your Email]
+- Contact: ```sharjeelsiddiqui00@gmai.com```
 
 ---
 
