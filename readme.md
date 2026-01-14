@@ -2,7 +2,7 @@
 
 A comprehensive full-stack personal finance management application built with React, Node.js, Express, and Oracle Database. This application helps users track their income, expenses, budgets, savings goals, and generate detailed financial reports.
 
-![Dashboard](Screenshots/1.png)
+![Dashboard](Screenshots/15.png)
 
 ## 📋 Table of Contents
 
@@ -668,59 +668,45 @@ Protected routes ensure authenticated access:
 
 ### 1. Login Page
 ![Login Page](Screenshots/1.png)
-*Secure login interface with email and password authentication*
 
-### 2. Registration Page
+### 2. Profile Tab
 ![Registration Page](Screenshots/2.png)
-*User registration form with validation*
 
-### 3. Dashboard Overview
+### 3. Categories Tab
 ![Dashboard](Screenshots/3.png)
-*Main dashboard showing financial summary, charts, and recent activity*
 
-### 4. Dashboard Graphs
+### 4. Transaction Page
 ![Dashboard Graphs](Screenshots/4.png)
-*Visual representation of income vs expenses and spending patterns*
 
-### 5. Transactions Page
+### 5. Add Transactions Page
 ![Transactions](Screenshots/5.png)
-*Comprehensive transaction management interface with filtering*
 
 ### 6. Add Transaction
 ![Add Transaction](Screenshots/7.png)
-*Transaction creation form with category selection*
 
 ### 7. Budgets Page
 ![Budgets](Screenshots/8.png)
-*Budget planning and monitoring interface*
 
-### 8. Budget Details
+### 8. Add Budget Details
 ![Budget Details](Screenshots/9.png)
-*Detailed budget view with actual vs planned spending*
 
 ### 9. Savings Goals
-![Savings Goals](Screenshots/10.png)
-*Goal tracking interface with progress indicators*
+![Savings Goals](Screenshots/10.png) 
 
-### 10. Reports Page
+### 10. Create Goal
 ![Reports](Screenshots/11.png)
-*Financial reports with date range selection*
 
-### 11. Report Details
+### 11. Saving Goals Detail
 ![Report Details](Screenshots/12.png)
-*Detailed financial report with export options*
 
-### 12. Settings Page
+### 12. Reports Page
 ![Settings](Screenshots/13.png)
-*User profile and preferences management*
 
 ### 13. Admin Panel
 ![Admin Panel](Screenshots/14.png)
-*Admin interface for user management*
 
-### 14. Admin User Management
+### 14. Dashboard
 ![User Management](Screenshots/15.png)
-*Admin tools for managing users and viewing audit logs*
 
 ## 📖 Usage Guide
 
