@@ -681,8 +681,8 @@ Protected routes ensure authenticated access:
 ### 5. Add Transactions Page
 ![Transactions](Screenshots/5.png)
 
-### 6. Add Transaction
-![Add Transaction](Screenshots/7.png)
+### 6. Transaction Page
+![Transaction](Screenshots/7.png)
 
 ### 7. Budgets Page
 ![Budgets](Screenshots/8.png)
